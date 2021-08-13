@@ -1,3 +1,3 @@
-const a = 1111
+const a = 'test'
 
 export default a
